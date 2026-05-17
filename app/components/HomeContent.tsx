@@ -125,8 +125,8 @@ export default function HomeContent() {
         </p>
 
         <div className="mt-6 space-y-2 text-zinc-300">
-          <p>Email: yourname@email.com</p>
-          <p>LinkedIn: linkedin.com/in/yourprofile</p>
+          <p>Email: jubindersingh@email.com</p>
+          <p>LinkedIn: linkedin.com/injubindersingh/</p>
         </div>
       </section>
 
